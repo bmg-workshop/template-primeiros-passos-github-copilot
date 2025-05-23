@@ -2,9 +2,6 @@ name: Step 0 # Start Exercise
 
 on: 
   workflow_dispatch
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
